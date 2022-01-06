@@ -195,7 +195,7 @@ class MainActivity : AppCompatActivity() {
             }
         })
     }
-    //barra
+    //barra teste
     fun fecharProgressBar(b1: Boolean, b2: Boolean, b3: Boolean) {
         if (b1 && b2 && b3) {
             pbCarregar?.visibility = View.GONE
