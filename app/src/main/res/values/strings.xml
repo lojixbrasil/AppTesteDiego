@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Teste Diego</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Diego Simões</string>
+    <string name="nav_header_subtitle">diegoresolvet@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Fechar</string>
+
+    <string name="menu_home">Postagens</string>
+    <string name="menu_gallery">Albuns</string>
+    <string name="menu_slideshow">To-Dos</string>
+</resources>
